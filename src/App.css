@@ -33,7 +33,7 @@ p {
   padding: 1rem 2.5rem;
   border: none;
   border-radius: 12px;
-  background-color: #f97316;
+  background-color: #2563eb;
   color: #ffffff;
   font-family: inherit;
   font-size: 1.25rem;
@@ -42,7 +42,7 @@ p {
 }
 
 .click-button:hover {
-  background-color: #ea6a0c;
+  background-color: #1d4ed8;
 }
 
 .counter {
